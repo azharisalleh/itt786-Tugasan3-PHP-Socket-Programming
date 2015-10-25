@@ -1,0 +1,5 @@
+
+Instruction to running php program
+1) Copy these files in www directory (in case of WAMP), located at C:\wamp.
+2) Open your web browser and type localhost in the address bar.
+3) Browse server.php first followed by client.php.
